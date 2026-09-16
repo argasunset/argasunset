@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:00ff41&height=180&section=header&text=Arga&fontSize=70&fontColor=00ff41&fontAlignY=55&desc=Just%20a%20student%20who%20likes%20breaking%20and%20building%20things&descSize=16&descAlignY=78&animation=twinkle" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:00ff41&height=180&section=header&text=Ramiro Arga Pratama&fontSize=70&fontColor=00ff41&fontAlignY=55&desc=Just%20a%20student%20who%20likes%20breaking%20and%20building%20things&descSize=16&descAlignY=78&animation=twinkle" width="100%"/>
 
 <a href="https://github.com/argasunset">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00FF41&background=00000000&center=true&vCenter=true&multiline=true&width=700&height=100&lines=root%40arga%3A~%23+whoami;%3E+student+%2F+flutter+dev+%2F+builder;%3E+status%3A+debugging+life.exe" alt="Typing SVG" />
@@ -18,7 +18,7 @@ $ cat about_me.txt
 ```
 
 ```yaml
-name:        Arga
+name:        Ramiro Arga Pratama
 role:        Student / Aspiring Developer
 focus:       Mobile Apps (Flutter/Dart) & Game Dev (Java/Greenfoot)
 currently:   building "Sparepin" — e-commerce khusus sparepart elektronik
@@ -64,13 +64,16 @@ Aplikasi mobile e-commerce yang fokus khusus jual-beli sparepart elektronik (HP,
 </td>
 <td width="50%" valign="top">
 
-**🐸 Frogger Reimagined**
+**🏍️ Honda Cirebon Timur**
 ```
 > status: in development
-> stack: Java · Greenfoot
-> genre: arcade / crossing game
+> stack: Laravel · CSS
+> backend: API
 ```
-Versi Frogger yang dibikin lebih kompleks dan polished dari versi dasarnya — nyebrang jalan & sungai dengan tantangan yang lebih niat.
+Website pemasaran kendaraann roda dua 
+untuk mitra kerja HONDA - khusus untuk 
+orang yang bingung mencari jenis kendaraan roda dua yang baru 
+
 
 </td>
 </tr>
